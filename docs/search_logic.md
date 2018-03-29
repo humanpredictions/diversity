@@ -9,6 +9,8 @@ field of their publicly available profiles.
 Anyone who is a member of any of these
 [Groups/Organizations](../spreadsheets/groups_and_organizations.csv).
 
+All terms are joined together by OR strings.
+
 ## Contributions
 We are exposing the logic that we use in hopes to gain insights and advice from
 smarter people like YOU. If you think we can do better in some aspect of our
