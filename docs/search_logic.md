@@ -15,7 +15,7 @@ All terms are joined together by OR strings.
 We are exposing the logic that we use in hopes to gain insights and advice from
 smarter people like YOU. If you think we can do better in some aspect of our
 diversity search logic:
-* submit an issue or [contact us](mailto:support@humanpredictions.io)
+* submit an issue or [contact us](mailto:diversity@humanpredictions.io)
 * contribute to our list of keywords or Groups/Organizations through a pull
   request
 
