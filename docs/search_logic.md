@@ -3,11 +3,11 @@
 We use [genderize.io](https://genderize.io/) to guess gender via name, returning
 anyone who genderize guesses is a woman.
 
-Anyone with any of these [keywords](../master/spreadsheets/keywords.csv) on any
+Anyone with any of these [keywords](../spreadsheets/keywords.csv) on any
 field of their publicly available profiles.
 
 Anyone who is a member of any of these
-[Groups/Organizations](../master/spreadsheets/groups_and_organizations.csv).
+[Groups/Organizations](../spreadsheets/groups_and_organizations.csv).
 
 ## Contributions
 We are exposing the logic that we use in hopes to gain insights and advice from
