@@ -1,3 +1,4 @@
+METROPOLITAN_CITY,STATE,COUNTRY,MEETUP_GROUP_MEMBERS_URL
 Amsterdam,,NL,site:https://www.meetup.com/Empowering-Women-Leaders-How-to-spot-Unconscious-Biases/members/
 Arlington,VA,US,site:https://www.meetup.com/Pivotal-Diversity-Inclusion/members/
 Atlanta,GA,US,site:https://www.meetup.com/Networking-for-Women-in-Tech/members/
@@ -79,7 +80,6 @@ London,,UK,site:https://www.meetup.com/ai-club/members/
 London,,UK,site:https://www.meetup.com/opentechschool-london/members/
 London,,UK,site:https://www.meetup.com/researchers-code/members/
 Los_Angeles,CA,US,site:https://www.meetup.com/Write-Speak-Code-Los-Angeles/members/
-METROPOLITAN_CITY,STATE,COUNTRY,MEETUP_GROUP_MEMBERS_URL
 Melbourne,,AU,site:https://www.meetup.com/OpenTechSchool-Melbourne/members/
 Minneapolis,MN,US,site:https://www.meetup.com/Graveti/members/
 Munich,,DE,site:https://www.meetup.com/Tech-Diversity-Munich-Meetup/members/
